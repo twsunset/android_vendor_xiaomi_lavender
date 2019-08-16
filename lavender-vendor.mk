@@ -64,6 +64,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/lavender/proprietary/lib/com.qualcomm.qti.wifidisplayhal@1.0.so:system/lib/com.qualcomm.qti.wifidisplayhal@1.0.so \
     vendor/xiaomi/lavender/proprietary/lib/extractors/libmmparser.so:system/lib/extractors/libmmparser.so \
     vendor/xiaomi/lavender/proprietary/lib/fm_helium.so:system/lib/fm_helium.so \
+	vendor/xiaomi/lavender/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so \
+	vendor/xiaomi/lavender/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so \
     vendor/xiaomi/lavender/proprietary/lib/libFileMux.so:system/lib/libFileMux.so \
     vendor/xiaomi/lavender/proprietary/lib/libOmxMux.so:system/lib/libOmxMux.so \
     vendor/xiaomi/lavender/proprietary/lib/libfm-hci.so:system/lib/libfm-hci.so \
